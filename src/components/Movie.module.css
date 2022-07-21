@@ -7,7 +7,7 @@
   color: #adaeb9;
   display: grid;
   grid-template-columns: minmax(150px, 1fr) 2fr;
-  grid-gap: 20px;
+  grid-gap: 70px;
   text-decoration: none;
   color: inherit;
   box-shadow: 0 13px 27px -5px rgba(50, 50, 93, 0.25),
